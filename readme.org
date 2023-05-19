@@ -1,9 +1,9 @@
 * What?
 ** before
 
-   [[iamges/before.png]]
+   [[images/before.png]]
 ** with thinking hats
-   [[iamges/with_thinkinghats.png]]
+   [[images/with_thinkinghats.png]]
 
 * And What?
   Base idea was from Edward De Bono's [[https://en.wikipedia.org/wiki/Six_Thinking_Hats][Six Thinking Hats]]
