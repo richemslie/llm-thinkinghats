@@ -1,4 +1,11 @@
 * What?
+** before
+
+   [[iamges/before.png]]
+** with thinking hats
+   [[iamges/with_thinkinghats.png]]
+
+* And What?
   Base idea was from Edward De Bono's [[https://en.wikipedia.org/wiki/Six_Thinking_Hats][Six Thinking Hats]]
 
   With some playing around and with GPT-4 feedback, we came up with a bunch of hats more suitable for LLMs.
