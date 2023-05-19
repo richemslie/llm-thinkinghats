@@ -1,16 +1,14 @@
 * What?
-** before
+  This is a meta-level prompt that encourages various thoughts and thinking with GPT-4.
+
+  Another way to think of it as bootstrapping itself to think in different modes.
+
+** without thinking hats
 
    [[images/before.png]]
+
 ** with thinking hats
    [[images/with_thinkinghats.png]]
-
-* And What?
-  Base idea was from Edward De Bono's [[https://en.wikipedia.org/wiki/Six_Thinking_Hats][Six Thinking Hats]]
-
-  With some playing around and with GPT-4 feedback, we came up with a bunch of hats more suitable for LLMs.
-
-  It is truly amazing what GPT-4 can do!
 
 * Give it a go!
   1. Visit [[https://chat.openai.com/chat][ChatGPT]]
@@ -18,6 +16,14 @@
   3. Copy and paste the contents of [[https://raw.githubusercontent.com/richemslie/gpt4-thinkinghats/main/hats.yaml][hats.yaml]] into ChatGPT
   4. Ask it anything / tell it your problems!
   5. Profit
+
+* And What?
+  Base idea was taken from Edward De Bono's [[https://en.wikipedia.org/wiki/Six_Thinking_Hats][Six Thinking Hats]]
+
+  With some playing around and with GPT-4 feedback, we came up together with a bunch of hats suitable for LLMs.
+
+  It is truly amazing what GPT-4 can do!
+
 
 
 
