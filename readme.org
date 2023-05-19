@@ -1,7 +1,5 @@
 * What?
-  This is a meta-level prompt that encourages various thoughts and thinking with GPT-4.
-
-  Another way to think of it as bootstrapping itself to think in different modes.
+  This is a yaml prompt to paste in to prime and encourage various thought styles and thinking more with GPT-4.
 
 ** without thinking hats
 
