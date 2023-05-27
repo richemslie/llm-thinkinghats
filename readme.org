@@ -1,5 +1,5 @@
 * What?
-  This is a yaml prompt to paste in to prime and encourage various thought styles and thinking more with GPT-4.
+  This is a yaml prompt to paste in to prime and encourage various thought styles and thinking more with LLMs.  (pretty much only works with GPT-4 currently).
 
 ** without thinking hats
 
@@ -20,7 +20,6 @@
 
   With some playing around and with GPT-4 feedback, we came up together with a bunch of hats suitable for LLMs.
 
-  It is truly amazing what GPT-4 can do!
 
 
 
