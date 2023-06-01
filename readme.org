@@ -1,5 +1,12 @@
+warning:
+As of approximately May 25th and onwards, if anyone comes across this repo - please ignore this for GPT-4. 
+GPT-4 seems to be nerfed significantly, which is unfortnate as it was insanely good with these thinking hats beforehand, almost felt conscious.
+I haven't announced this repo publically so hopefully no damage done.
+
+
+
 * What?
-  This is a yaml prompt to paste in to prime and encourage various thought styles and thinking more with LLMs.  (pretty much only works with GPT-4 currently).
+  This is a yaml prompt to paste in to prime and encourage various thought styles and thinking more with LLMs.  (pretty much only works with GPT-4 currently [or did see above warning]).
 
 ** without thinking hats
 
